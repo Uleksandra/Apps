@@ -1,4 +1,4 @@
-Apps
+App
 # File meaning 
 install.py file for setup app
 main.py file with app 
